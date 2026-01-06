@@ -4,6 +4,7 @@
 - SQL
 - Excel
 - Power BI
+- Tableau
 
 ## Objective
 To analyze banking data to understand customer behavior, loan performance, and overall business performance.

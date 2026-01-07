@@ -66,11 +66,11 @@ Data was cleaned and transformed before analysis.
 ### Loan Analytics – Power BI
 ![Loan Analytics Power BI Dashboard](Loan%20Analytics%20Power%20Bi%20Dashboard.png)
 
+---
+
 ### Loan Analytics – Tableau
 ![Loan Analytics Tableau Dashboard](Loan%20Analytics%20Tableau%20Dashboard.png)
 
-
-📊 Dashboard screenshots are included in this repository.
 
 ---
 

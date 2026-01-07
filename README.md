@@ -44,7 +44,31 @@ Data was cleaned and transformed before analysis.
 ## Dashboards
 - **Excel Dashboard:** Debit & Credit Analysis  
 - **Power BI Dashboard:** Customer & Loan Analytics  
-- **Tableau Dashboard:** Loan Performance Overview  
+- **Tableau Dashboard:** Loan Performance Overview
+
+
+## Dashboard Previews
+
+### Debit & Credit Analysis – Excel
+![Debit & Credit Excel Dashboard](Debit%20%26%20Credit%20Excel%20Dasbard.png)
+
+### Debit & Credit Analysis – Power BI
+![Debit & Credit Power BI Dashboard](Debit%20%26%20Credit%20PowerBI%20Dashboard.png)
+
+### Debit & Credit Analysis – Tableau
+![Debit & Credit Tableau Dashboard](Debit%20%26%20Credit%20Tableau%20Dashboard.png)
+
+---
+
+### Loan Analytics – Excel
+![Loan Analytics Excel Dashboard](Loan%20Analytics%20Excel%20Dashboard.png)
+
+### Loan Analytics – Power BI
+![Loan Analytics Power BI Dashboard](Loan%20Analytics%20Power%20Bi%20Dashboard.png)
+
+### Loan Analytics – Tableau
+![Loan Analytics Tableau Dashboard](Loan%20Analytics%20Tableau%20Dashboard.png)
+
 
 📊 Dashboard screenshots are included in this repository.
 
